@@ -6,5 +6,4 @@ Pacotes comumente usados por mim
 * laravel-ide-helper
 * laravel-debugbar
 * clockwork
-
 * andreyknupp/mask-formatter (formatador de strings)
