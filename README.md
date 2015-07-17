@@ -7,3 +7,4 @@ Pacotes comumente usados por mim
 * laravel-debugbar
 * clockwork
 * andreyknupp/mask-formatter (formatador de strings)
+* laravelcollective/html
