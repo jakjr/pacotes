@@ -8,3 +8,4 @@ Pacotes comumente usados por mim
 * clockwork
 * andreyknupp/mask-formatter (formatador de strings)
 * laravelcollective/html
+* tedslittlerobot/menu-builder
