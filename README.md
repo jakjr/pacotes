@@ -9,3 +9,4 @@ Pacotes comumente usados por mim
 * andreyknupp/mask-formatter (formatador de strings)
 * laravelcollective/html
 * tedslittlerobot/menu-builder
+* https://github.com/components (bootstrap, bootstrap-default, jquey, jqueryui, font-awesome)
