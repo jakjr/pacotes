@@ -10,3 +10,5 @@ Pacotes comumente usados por mim
 * laravelcollective/html
 * tedslittlerobot/menu-builder
 * https://github.com/components (bootstrap, bootstrap-default, jquey, jqueryui, font-awesome)
+* https://github.com/shadowhand/destrukt (estruturas de dados imutáveis em php)
+* verificar enuns em php
